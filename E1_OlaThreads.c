@@ -35,6 +35,6 @@ int main( int argc, char **argv) {
    /* Without the join I could be printing a value before all the threads */
    /* have been completed.                                                */
 
-   printf("Final counter value: %d\n", j);
+   printf("Final counter value:  %d\n", j);
    
 }
