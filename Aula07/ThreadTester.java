@@ -1,4 +1,4 @@
-aclass SimpleThread extends Thread {
+class SimpleThread extends Thread {
 	
 	private String name;
 	
