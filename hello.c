@@ -7,7 +7,7 @@ void *thread_function(void *);
 pthread_mutex_t mutex1 = PTHREAD_MUTEX_INITIALIZER;
 int  counter = 0;
 
-
+// Aluno Victor Arnt matricula 00291097
 void *thread_function(void *dummyPtr)
 {
    printf("Hello, sou a thread: %ld\n", pthread_self());

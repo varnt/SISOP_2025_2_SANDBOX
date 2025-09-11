@@ -1,5 +1,5 @@
 class SimpleThread extends Thread {
-	
+	//// Aluno Victor Arnt matricula 00291097
 	private String name;
 	
 	public SimpleThread(String name) {

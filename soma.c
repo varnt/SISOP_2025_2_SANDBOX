@@ -3,7 +3,7 @@
 #include <pthread.h>
 
 #define N 1000000
-
+// Aluno Victor Arnt matricula 00291097
 // Variáveis globais
 int A[N];
 long long SUM = 0;
